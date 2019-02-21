@@ -4,4 +4,3 @@
 # HTML5
 - Em andamento
 # CSS3
-- Em andamento
