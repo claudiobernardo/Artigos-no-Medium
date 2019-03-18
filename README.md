@@ -1,9 +1,9 @@
 # 📝 Guia de Estudo Front-End
 ## Referências de materiais para estudo de Front-End e suas Tecnologias.
-# Básico
+---
 ## :heavy_check_mark: HTML5
-- HTML Semântico</br>
-- HTML API
+- HTML Semântico - (Artigo 1), (Artigo 2), (Artigo 3)</br>
+- HTML API</br>
 - SEO</br>
 - Acessibilidade</br>
 ### :heavy_check_mark: CSS3
