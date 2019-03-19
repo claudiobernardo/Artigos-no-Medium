@@ -1,7 +1,7 @@
 # 📝 Guia de Estudo Front-End
 ---
 ## :heavy_check_mark: HTML5
-- HTML Semântico - (Artigo 1), (Artigo 2), (Artigo 3)</br>
+- [HTML Semântico](https://www.google.com/search?q=HTML+Sem%C3%A2ntico&oq=HTML+Sem%C3%A2ntico&aqs=chrome..69i57j0l4.1280j0j7&sourceid=chrome&ie=UTF-8)</br>
 - HTML API</br>
 - HTML para SEO</br>
 - Acessibilidade</br>
