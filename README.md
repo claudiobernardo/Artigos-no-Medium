@@ -2,6 +2,7 @@
 ## :heavy_check_mark: HTML5
 - [HTML Semântico](https://www.google.com/search?q=HTML+Sem%C3%A2ntico&oq=HTML+Sem%C3%A2ntico&aqs=chrome..69i57j0l4.1280j0j7&sourceid=chrome&ie=UTF-8)</br>
 - HTML API</br>
+
 - HTML para SEO</br>
 - Acessibilidade</br>
 ### :heavy_check_mark: CSS3
