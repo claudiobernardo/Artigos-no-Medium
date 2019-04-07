@@ -7,7 +7,6 @@
 - Acessibilidade</br>
 ### :heavy_check_mark: CSS3
 - Básico</br>
-
 - Fazer layouts (Floats, Positioning, Display, Box Model, CSS Grid, Flex Box)</br>
 - Media Queries</br>
 #### :heavy_check_mark: JavaScript
