@@ -33,4 +33,4 @@
 #### :heavy_check_mark: Arquitetura CSS
 - BEM</br>
 - OOCSS</br>
-- SMACSS</br>
+- SMACSS
