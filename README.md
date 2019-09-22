@@ -8,10 +8,17 @@
 - [Guia de Estudo — Redes de Computadores: Visão Geral
 ](https://medium.com/@claudiobernardo/guia-de-estudo-redes-de-computadores-vis%C3%A3o-geral-c70b5377fa16) - Publicado em Mar/2019</br>
 
-- [title](https://www.example.com)</br>
+### Tópico - Resenha de Livros
 
-- [title](https://www.example.com)</br>
+- [RESENHA | LIVRO: Arrume a sua cama — Willian H. McRaven](https://medium.com/@claudiobernardo/resenha-livro-arrume-a-sua-cama-willian-h-mcraven-f1bc7735e6c8) - Publicado em Mai/2019</br>
 
-- [title](https://www.example.com)</br>
+- [RESENHA | LIVRO: Procrastinação — Lílian Soares](https://medium.com/@claudiobernardo/resenha-livro-procrastina%C3%A7%C3%A3o-l%C3%ADlian-soares-8f4df807ac39) - Publicado em Mai/2019</br>
+
+- [RESENHA | HQ: Thor — A Saga de Surtur (1988)](https://medium.com/@claudiobernardo/resenha-hq-thor-a-saga-de-surtur-1988-2cb6a3f769fa) - Publicado em Mai/2019</br>
+
+- [A abolição do homem — C.S Lewis (Resenha)](https://medium.com/@claudiobernardo/a-aboli%C3%A7%C3%A3o-do-homem-c-s-lewis-resenha-49c9842fe683) - Publicado em Mai/2019</br>
+
+- [O Milagre da Manhã — Hal Elrod (Resenha)](https://medium.com/@claudiobernardo/resumo-livro-o-milagre-da-manh%C3%A3-9a3653673b4c) - Publicado em Abril/2019</br>
+
 
 
